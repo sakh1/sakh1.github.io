@@ -3,33 +3,72 @@ body {
   padding-bottom: 20px;
 }
 
-.jumbotron{
-	text-align: center;
-	background-image: url('../images/hero_image.jpg');
-	 color: white;
+ul.nav, .jumbotron h1 {
+	font-family: 'Arvo', courier, serif;
 }
 
-.btn-lg {
-	font-size:36px;
+#get-involved {
+  background-color: #f5f5f5;
+}
+
+.jumbotron {
+  text-align: center;
+  background-image: url("../images/hero_image.jpg");
+  color: white;
 }
 
 .jumbotron h1 {
-	font-family: 'Arvo', courier, serif;
-	margin-top:0px;
-	margin-bottom: 50px;
-
+  margin-top: 0px;
+  margin-bottom: 20px;
 }
 
 .jumbotron p {
-	margin-bottom: 30px;
-	font-weight: 100;
-	padding: 0 50px;
+  margin-bottom: 30px;
+  font-weight: 100;
+  padding: 0 50px;
 }
 
-ul.nav {
-	font-family: 'Arvo', courier, serif;
+.btn-lg {
+  font-size: 36px;
 }
 
-ul.nav {
-	font-size:13px;
+.homepage a:hover {
+  color: #e74c3c;
+  text-decoration: none;
+  opacity: .8;
 }
+
+.homepage hr {
+  border-top: 1px solid #e74c3c;
+  width: 150px;
+  margin-top: 15px;
+}
+
+
+
+
+.homepage {
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 40px
+}
+.homepage h2, .homepage h3 {
+  font-family: ‘Arvo’, courier, serif;
+  color: #e74c3c;
+  text-transform: uppercase;
+}
+.homepage h2 {
+  font-size: 30px;
+}
+.homepage h3 {
+  font-size: 26px;
+}
+.homepage p {
+  font-size: 21px;
+  font-weight: 300;
+}
+.homepage a {
+  color: #e74c3c;
+}<br>
+
+
