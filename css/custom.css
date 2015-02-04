@@ -49,6 +49,11 @@ footer {
   margin-bottom: 10px;
 }<em><br></em>
 
+
+.btn-lg {
+  font-size: 36px;
+}
+
 .modal-content button.close {
   position: absolute;
   top: 5px;
@@ -62,10 +67,6 @@ footer {
   -moz-border-radius: 24px;
 }
 <br>
-
-.btn-lg {
-  font-size: 36px;
-}
 
 .homepage a:hover {
   color: #e74c3c;
